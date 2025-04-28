@@ -54,8 +54,8 @@ Detailed results, classification reports, and visualizations (like confusion mat
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/MoHaroon777/DNP3_IDS_Project.git
+    cd ./DNP3_IDS_Project
     ```
 2.  **Set up Environment:** A Python environment with standard data science libraries is required. Key libraries include:
     *   `pandas`
